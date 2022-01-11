@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WeekNumberRule (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WeekNumberRule (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
