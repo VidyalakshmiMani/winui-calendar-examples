@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WeekNumberCustomization (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WeekNumberCustomization (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
