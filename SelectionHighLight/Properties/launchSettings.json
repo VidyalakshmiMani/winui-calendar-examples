@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SelectionHighLight (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SelectionHighLight (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
