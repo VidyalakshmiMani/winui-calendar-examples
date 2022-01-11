@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FirstDayOfWeek (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FirstDayOfWeek (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
