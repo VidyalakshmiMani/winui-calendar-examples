@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SelectedDate (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SelectedDate (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

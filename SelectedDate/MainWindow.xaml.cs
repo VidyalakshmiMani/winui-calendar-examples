@@ -16,7 +16,7 @@ using Windows.Foundation.Collections;
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
 
-namespace SelectedDateDetails
+namespace SelectedDate
 {
     /// <summary>
     /// An empty window that can be used on its own or navigated to within a Frame.
@@ -27,9 +27,9 @@ namespace SelectedDateDetails
         {
             this.InitializeComponent();
         }
-private void Calendar_SelectedDateChanged(object sender, Syncfusion.UI.Xaml.Calendar.SelectedDateChangedEventArgs e)
-{
-    this.text.Text = "Selected date: " + e.NewDate.Value.ToString("dd/yyyy/MMMM");
-}
+        private void Calendar_SelectedDateChanged(object sender, Syncfusion.UI.Xaml.Calendar.SelectedDateChangedEventArgs e)
+        {
+            this.text.Text = "Selected date: " + e.NewDate.Value.ToString("dd/yyyy/MMMM");
+        }
     }
 }

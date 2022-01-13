@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "SelectedDateDetails (Package)": {
+    "CalendarItemTemplateSelector (Package)": {
       "commandName": "MsixPackage"
     },
-    "SelectedDateDetails (Unpackaged)": {
+    "CalendarItemTemplateSelector (Unpackaged)": {
       "commandName": "Project"
     }
   }
