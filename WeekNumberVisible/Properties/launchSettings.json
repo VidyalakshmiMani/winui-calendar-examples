@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WeekNumberVisible (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WeekNumberVisible (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
