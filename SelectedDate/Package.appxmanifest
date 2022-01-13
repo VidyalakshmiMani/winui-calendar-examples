@@ -7,12 +7,12 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="2065809e-314a-4cf2-991a-cf047cabcb62"
+    Name="75942e60-c8eb-4c8c-be03-a4f7e52c1bf1"
     Publisher="CN=IndumathiRavichandra"
     Version="1.0.0.0" />
 
   <Properties>
-    <DisplayName>SelectedDateDetails</DisplayName>
+    <DisplayName>SelectedDate</DisplayName>
     <PublisherDisplayName>IndumathiRavichandra</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -31,8 +31,8 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="$targetentrypoint$">
       <uap:VisualElements
-        DisplayName="SelectedDateDetails"
-        Description="SelectedDateDetails"
+        DisplayName="SelectedDate"
+        Description="SelectedDate"
         BackgroundColor="transparent"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png">
