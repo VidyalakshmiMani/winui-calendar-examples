@@ -3,7 +3,7 @@
 ## Syncfusion controls:
 
 This project used the following Syncfusion control(s):
-* [SfScheduler](https://www.syncfusion.com/winui-controls/calendar)
+* [SfCalendar](https://www.syncfusion.com/winui-controls/calendar)
 
 ## Requirements to run the sample
 
